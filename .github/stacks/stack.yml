@@ -1,7 +1,7 @@
 version: 1.0
 
-name: Stack to setup a Flutter app optionally deploy to Google Play store
-description: Use this stack to setup an Android App and deploy to google play store
+name: Stack to setup a Flutter app optionally deploy to Google Play store1
+description: Use this stack to setup an Android App and deploy to google play store1
 branding:
   icon: "thumbs-up"
   color: "blue"
